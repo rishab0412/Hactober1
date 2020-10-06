@@ -1,0 +1,6 @@
+# Assign the tuple
+t = (101, 202, ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]) 
+print(t)
+# Update the third list item
+t[2][2] = "Humpday"
+print(t)
