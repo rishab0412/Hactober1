@@ -1,0 +1,4 @@
+# Set the tuple
+weekdays = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday")
+# Print the second element of the tuple
+print(weekdays[1])
