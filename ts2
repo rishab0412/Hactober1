@@ -1,0 +1,6 @@
+# Set and print the initial tuple
+weekenddays = ("Saturday", "Sunday")
+print(weekenddays)
+# Reassign and print
+weekenddays = ("Sat", "Sun")
+print(weekenddays)
