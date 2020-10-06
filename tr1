@@ -1,0 +1,6 @@
+# Set the tuples
+weekdays = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday")
+weekenddays = "Saturday", "Sunday"
+# Print the tuples
+print(weekdays)
+print(weekenddays)
